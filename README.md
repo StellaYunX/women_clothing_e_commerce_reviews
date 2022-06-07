@@ -6,3 +6,9 @@ https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews?sel
 
 Programming Language:
 Python
+
+Daisy Wang: 
+Maggie Fan: https://github.com/magfan1031
+Sammi Chueh: https://github.com/Sammi-Chueh
+Sabrina Lee: https://github.com/sabrina8654
+Yun Xiao: https://github.com/StellaYunX
