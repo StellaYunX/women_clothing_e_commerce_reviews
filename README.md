@@ -10,7 +10,7 @@ https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews?sel
 Python
 
 ## Team
-Daisy Wang
+Daisy Wang: https://github.com/ChuYuehWang
 
 Maggie Fan: https://github.com/magfan1031
 
