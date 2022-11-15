@@ -9,4 +9,4 @@ https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews?sel
 ## Programming Language
 Python
 
-I was in charge of predictive modeling.
+
